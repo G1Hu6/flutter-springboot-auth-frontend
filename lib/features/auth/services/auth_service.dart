@@ -1,7 +1,6 @@
 import 'package:complete_auth/common/providers/dio_provider.dart';
 import 'package:complete_auth/models/login_response_model.dart';
 import 'package:dio/dio.dart';
-import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 class AuthService {

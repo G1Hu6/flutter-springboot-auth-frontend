@@ -1,5 +1,4 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'dart:convert';
 
 part 'login_response_model.freezed.dart';
 part 'login_response_model.g.dart';
